@@ -1,0 +1,10 @@
+String teacherName = "Tess Løvgreen";  
+int daysInYear = 365;  
+String city = "København";  
+boolean isActive = true;  
+int minutesInDay = 60 * 24;  
+double temperature = 22.12;  
+String greeting = "Hej, jeg hedder " + teacherName;  
+boolean isAvailable = false;  
+double sum = 2.2 + 33;  
+char grade = 'S';  
